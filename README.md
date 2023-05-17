@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mapadilla10
 - 👀 I’m interested in Building useful algorithms
-- 🌱 I’m currently learning data structures
-- 💞️ I’m looking to collaborate on data structures related projects such as Graphs.
+- 🌱 I’m currently learning AI development
+- 💞️ I’m looking to collaborate on AI projects such as deeplearning, pattern recognition, NLP
 - 📫 How to reach me marko-padilla@hotmail.com
 
 <!---
